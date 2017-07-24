@@ -1,0 +1,7 @@
+name: CancelTaskExample
+main: CancelTaskExample\lakwsh
+version: 1
+api: 3.0.0
+load: POSTWORLD
+author: lakwsh
+website: https://lakwsh.net
